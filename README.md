@@ -1,5 +1,7 @@
-<<<<<<< HEAD
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# Pathfinding Visualizer
+
+<a target="_blank"><img src="https://raw.githubusercontent.com/ctlong12/PortfolioWebsite/master/img/websiteImg.png" border="0" alt="Website Overview"></a>
 
 ## Available Scripts
 
@@ -68,6 +70,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 =======
-# Pathfinding-Visualizer
-React application with a purpose to to visualize common path finding algorithms. 
->>>>>>> cbc29438ff3fac9212dbde927974891af7b007c2
